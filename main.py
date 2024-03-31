@@ -23,3 +23,7 @@ if __name__ == '__main__':
 
     # adding new item on main branch
     print_hi('PyCharm updates on GitHub')
+
+
+    # adding new item on main branch
+    print_hi('Hello World Updates on Local Main Branch')
