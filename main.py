@@ -11,3 +11,6 @@ if __name__ == '__main__':
 
     # adding new item on hotfix branch
     print_hi('PyCharm 2')
+
+    # adding new item on hotfix branch
+    print_hi('PyCharm 3')
