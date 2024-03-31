@@ -8,3 +8,6 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
+
+    # adding new item on hotfix branch
+    print_hi('PyCharm 2')
